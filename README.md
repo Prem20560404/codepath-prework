@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 * [GIF-1] https://github.com/Prem20560404/codepath-prework/blob/master/clicking%20button%20feature.gif
 * [GIF-2] https://github.com/Prem20560404/codepath-prework/blob/master/game%20win%20lose%20alert%20feature.gif
-* [GIF-3] 
+* [GIF-3] https://github.com/Prem20560404/codepath-prework/blob/master/start_end%20featre.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
