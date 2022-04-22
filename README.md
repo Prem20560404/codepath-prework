@@ -29,8 +29,11 @@ The following **optional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+Gif-1:
 https://drive.google.com/file/d/18MGSjdC3l4hGLge39-JL8-731-dARZM4/view?usp=sharing
+Gif-2:
 https://drive.google.com/file/d/1DWR55sOXO4Krl1tWnjnoiBWFYkBrwPnK/view?usp=sharing
+Gif-3:
 https://drive.google.com/file/d/1DmHuZ05b2QY9mmUmwnb2ROyKKtlZeZDc/view?usp=sharing
 
 ## Reflection Questions
