@@ -26,12 +26,11 @@ The following **optional** features are implemented:
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 
-## Video Walkthrough (GIF)
-
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![] https://drive.google.com/file/d/18MGSjdC3l4hGLge39-JL8-731-dARZM4/view?usp=sharing
-![] https://drive.google.com/file/d/1DWR55sOXO4Krl1tWnjnoiBWFYkBrwPnK/view?usp=sharing
-![] https://drive.google.com/file/d/1DmHuZ05b2QY9mmUmwnb2ROyKKtlZeZDc/view?usp=sharing
+![](gif1-link-here)
+![](gif2-link-here)
+![](gif3-link-here)
+![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
