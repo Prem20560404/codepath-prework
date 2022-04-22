@@ -30,7 +30,7 @@ The following **optional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 * [GIF-1] https://github.com/Prem20560404/codepath-prework/blob/master/clicking%20button%20feature.gif
-* [GIF-2] 
+* [GIF-2] https://github.com/Prem20560404/codepath-prework/blob/master/game%20win%20lose%20alert%20feature.gif
 * [GIF-3] 
 
 ## Reflection Questions
