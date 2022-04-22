@@ -26,6 +26,8 @@ The following **optional** features are implemented:
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 
+## Video Walkthrough (GIF)
+
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](gif1-link-here)
 ![](gif2-link-here)
