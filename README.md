@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://drive.google.com/file/d/18MGSjdC3l4hGLge39-JL8-731-dARZM4/view?usp=sharing)
+![https://drive.google.com/file/d/18MGSjdC3l4hGLge39-JL8-731-dARZM4/view?usp=sharing]
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
