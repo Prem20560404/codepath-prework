@@ -35,13 +35,13 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+https://www.screentogif.com/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+While completing this submission, the challenge that I encountered is making a GIF to show the feature of the game. I tried the provides resuoreces in the pre-work description, but nothing worked for me. So, I decided to go in another way. I first recorded the screen using the in-built screen recorder, trimmed that recording using video editor, and finally used screenToGIF (https://www.screentogif.com/) website to get the GIF. I had experience of working with HTML, CSS, and JavaScript, I had no experience of working with audio content in JavaScript. I followed up the definitions or summary provided in the pre-work, and some YouTube vidoes to understand the use of audio content in JavaScript before implementing them in the pre-work. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+After completing the submission, the first question that popped in my mind was how can I make this game available to people in internet. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
