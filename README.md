@@ -2,9 +2,9 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: Prem Raj Oli
+Submitted by: **Prem Raj Oli**
 
-Time spent: **#** hours spent in total
+Time spent: **3hrs**
 
 Link to project: https://glitch.com/edit/#!/inquisitive-young-princess?path=README.md%3A64%3A49
 
@@ -12,7 +12,7 @@ Link to project: https://glitch.com/edit/#!/inquisitive-young-princess?path=READ
 
 The following **required** functionality is complete:
 
-* [yes] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [ ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
 * [ ] "Start" button toggles between "Start" and "Stop" when clicked. 
 * [ ] Game buttons each light up and play a sound when clicked. 
 * [ ] Computer plays back sequence of clues including sound and visual cue for each button
@@ -25,24 +25,13 @@ The following **optional** features are implemented:
 * [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
-* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
-* [ ] Game button appearance change goes beyond color (e.g. add an image)
-* [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![](https://drive.google.com/file/d/18MGSjdC3l4hGLge39-JL8-731-dARZM4/view?usp=sharing)
+![](https://drive.google.com/file/d/1DWR55sOXO4Krl1tWnjnoiBWFYkBrwPnK/view?usp=sharing)
+![](https://drive.google.com/file/d/1DmHuZ05b2QY9mmUmwnb2ROyKKtlZeZDc/view?usp=sharing)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -66,7 +55,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Prem Raj Oli]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
