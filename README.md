@@ -30,7 +30,8 @@ The following **optional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 * [ ] https://drive.google.com/file/d/18MGSjdC3l4hGLge39-JL8-731-dARZM4/view?usp=sharing
-
+* [ ] https://drive.google.com/file/d/1DWR55sOXO4Krl1tWnjnoiBWFYkBrwPnK/view?usp=sharing
+* [ ] https://drive.google.com/file/d/1DmHuZ05b2QY9mmUmwnb2ROyKKtlZeZDc/view?usp=sharing
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
